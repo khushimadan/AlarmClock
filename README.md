@@ -1,4 +1,4 @@
-# AlarmClock
+# Alarm Clock
 Created a simple Alarm Clock using Tkinter library in Python. Tkinter is a standard GUI library of Python.
 
 STEP 1
